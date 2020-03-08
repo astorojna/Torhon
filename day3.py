@@ -1,9 +1,9 @@
 # float day
-ratioOfCity = float(11.58)
-print(ratioOfCity)
+ratio_of_city = float(11.58)
+print(ratio_of_city)
 
-ratioOfCountry = 19.63
-print(ratioOfCountry)
+ratio_of_country = 19.63
+print(ratio_of_country)
 
 
 ### TODO: Define 3 ratios of something and print them
