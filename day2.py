@@ -1,12 +1,12 @@
 # integer day
-myint = 7
-print(myint)
+my_int = 7
+print(my_int)
 
 age = 20
 print(age)
 
-numberOfCats = 5
-print(numberOfCats)
+number_of_cats = 5
+print(number_of_cats)
 
 
 ### TODO: Define 3 integer of something and print them
